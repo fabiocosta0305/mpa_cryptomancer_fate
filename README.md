@@ -12,6 +12,7 @@ This is part of [Mozilla Cryptomancer Challenge](https://github.com/MozillaFound
 
 ### `/user/fabiocosta/ Changelog`
 
++ 0.2: Correcting some formatting to be more _Cryptomancer_ like. Giving some extra options for Cryptolocks based on the upcoming _Fate Adversary Toolkit_
 + 0.1: The first _"usable"_ adaptation - small fluffy, no setting (beside some tangent talk with Dave Joria's _Masters of Umdaar_) and no playtest done, some of the rules and fluffy from _Cryptomancer_ left behind. Bare metal to go Rock'n'roll. KILL THE MASTERS! HACK THE THINGS!
 
 ### `/root/fate/ Shards_and_Shardnet`
