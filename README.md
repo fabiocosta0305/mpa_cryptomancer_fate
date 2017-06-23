@@ -2,7 +2,7 @@
 
 ## _Based on the **Cryptomancer** RPG by **Chad Walker**_
 
-## Version 0.1 - 2017-06-23
+## Version 0.2 - 2017-06-23
 
 ### `/user/fabiocosta/ Disclamer_and_notes`
 
