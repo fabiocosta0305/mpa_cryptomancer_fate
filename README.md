@@ -4,17 +4,17 @@
 
 ## Version 0.1 - 2017-06-23
 
-### /user/fabiocosta/ Disclamer_and_notes
+### `/user/fabiocosta/ Disclamer_and_notes`
 
 This is an adaptation of _Cryptomancy_, from [**Cryptomancer** RPG by Chad Walker](http://cryptorpg.com), for [**Fate Accelerated Edition** by _Evil Hat_](http://www.evilhat.com/home/wp-content/uploads/FAE.zip). Although this refers in some points to [_Masters of Umdaar_](http://www.drivethrurpg.com/product/155458/Masters-of-Umdaar-o-A-World-of-Adventure-for-Fate-Core), a _World of Adventure_ for Fate Accelerated by _Dave Joria_, the rules are generic enough to be used in any Fate Core or Accelerated based setting with little to nothing adaptation. All the moral rights were respected here.
 
 This is part of [Mozilla Cryptomancer Challenge](https://github.com/MozillaFoundation/mpa-cryptomancer-challenge).
 
-### /user/fabiocosta/ Changelog
+### `/user/fabiocosta/ Changelog`
 
 + 0.1: The first _"usable"_ adaptation - small fluffy, no setting (beside some tangent talk with Dave Joria's _Masters of Umdaar_) and no playtest done, some of the rules and fluffy from _Cryptomancer_ left behind. Bare metal to go Rock'n'roll. KILL THE MASTERS! HACK THE THINGS!
 
-### /root/fate/ Shards_and_Shardnet
+### `/root/fate/ Shards_and_Shardnet`
 
 > #### Permissions and Costs
 >
@@ -29,7 +29,7 @@ Also, the most recent echoes resonates more powerful into the shardnet than the 
 
 There's no way to avoid someone to see shards not intended to him, except using the _Cryptomancy_ techniques: _cleartext_ echoes are public inside an _specific shardnet_, made from shards from the same crystal. There's some special magical procedures to hide and cypher the _echoes_, beside other things, called Cryptomancy.
 
-### /root/fate/ Cryptomancy
+### `/root/fate/ Cryptomancy`
 
 > #### Permissions and Costs
 >
@@ -63,7 +63,7 @@ An important thing: ___if someone dies, his True Name became a simple Keyphrase_
 + ___Shard Scry:___ Using this magic, a cryptomancer can see everything that is happening where there's other shards from the shardnet, as the shards were security cameras. This is considered a _Create Advantage_ being _Clever_ action, against a difficult based on the Shardnet size. A _Tie_ gives a Scry boost that can be used only in shards that sent recently echoes that the user could understand (either cleartext or using _keyphrases_ or _True Names_ the user knows). With a Success, he can see everything in any shard that recently echoed anything, even the character being unable to decrypt. A _Success with Style_ allows the user to see everywhere, even on those places whose shards had not sent any live echo recently. Lasts by one scene or until disarmed by the cryptomancer
 + ___Shard Spike:___ a offensive tracking technique, is based on the cryptomancer lace the magic into an echo that will be encrypted and sent in the shardnet. When someone decrypt it, the Spike explodes, and the Cryptomancer knows it. This is a _Create Advantage_ action being _Sneaky_, the difficult based on the _Shardnet_. A Tie allow the cryptomancer to knows the Spike was triggered. A Success geolocate the victim (as by _Tracer_). A _Success with Style_ will also deal a 2-stress damage straight the victim's Consequences, because of the _Brain frying_ effect of the magic. Last until the spike is triggered or defused by the cryptomancer, and the cryptomancer can have only one spike active.
 
-### /root/fate/ The_Shardscape
+### `/root/fate/ The_Shardscape`
 
 In the ancient past, even before the Demiurge time, a massive shard crystal was found in a big mountain. The Demiurge documents founds says that this crystal crashed in Umdaar ages before the Demiurge ascension, and the Gods themselves sent it to Umdaar. Some says that those who touched this crystal found knowledge beyond the wildest dreams from the humans or any race. Some, however, says that those who tried to touch it straight had gone totally, utterly bonkers, babbling about the future, the past, the stars and utterly having their mind shattered, crashed by the sheer, massive, quantities of knowledge they needed to process all those.
 
@@ -94,7 +94,7 @@ For searching for some information in the Shardscape, the character needs to be 
 
 A Tie should be treated as an Success, but maybe he can take some ___Irrelevant Information___ with the desired echo. In case of Failure, a character can suffer a ___Too Much Information!!!___ Aspect (or similar), representing the amount of echoes he somewhat bring with the one he needed, as a Cost for the Success. A _Sucess with Style_ can bring some ___Extra Information___ useful for the characters.
 
-### Bridging Shardnets
+### `/root/fate/ Bridging_Shardnets`
 
 A _Private Shardnet_ is a good thing, but sometimes the use of private shardnets are limited by the small number of shards oft the same shard crystal, and so in the same shardnet. But using the _Shardscape_ has the drawbacks on the privacy and limitations because of the sheer volume of echoes on it.
 
@@ -128,7 +128,7 @@ Also, he can listen for echoes that are encrypted with his True Name from all sh
 
 Someone that knows the True Name of a Golem can use it to listen for some specifics keyphrases, by sending them to the Golem using a message encrypted with its True Name. Every echo in the shardnets that the Golem can access, including the Shardscape, are sent for the shardnet that send the message. This could be a problem, as someone could try to take down the shardnet and even the Golem by sending lots and lots of messages and mae the Golem goes down being unable to traverse all the messages to the shardnet, or to create so much noise the target shardnet could not be usable.
 
-### /root/fate/ Authentication_And_Cryptogears
+### `/root/fate/ Authentication_And_Cryptogears`
 
 Many shardnets, specially those that have cryptoadmins and/or Golems on it, can use some _Authentication_ to use it, so the cryptoadmin/Golem could verify if the user is who they say they are and, by this, registry and somehow grant or forbid access to some shardnets or keyphrases he can listen or echo on it. Normally, the authentication on a shardnet secured this way is done by sending his name and a presetted passphrase, encrypting this message by the same combination of name and passphrase as keyphrase. When he authenticates, the cryptoadmin confirms if he's an authorized user and grants the access for the resources he can use. Sometimes, in some shardnets that has some secured parts, some kind of Banners (we'll see more about this later) can be set by Cryptoadmins, so new users (or lazy ones) can be remembered on the procedures to authenticate into the shardnet.
 
@@ -142,7 +142,17 @@ There's some more complex cryptogears, like those who would rotate a chamber acc
 
 Some of the most complex or secure cryptogears can have their shards hidden somewhere, only a remotely placed "command shard" being used for issuing commands.
 
-### /root/fate/ Cryptomancy_Magics_In_Real_Life
+In Fate Rules, you can treat _cryptogears_ as Extras, and _cryptolocks_ as Aspects on it. If you have access to the _Fate Adversary Toolkit_, _Cryptolocks_ can be treated as a _Distraction_, _Countdowns_ and _Hazards_, like the sample below:
+
+> __*Distraction:* A common Cryptolock__
+>
+> + __*Choice:*__ How the character will open the Cryptolock?
+> + __*Opposition:*__ _Fair (+2)_
+> + __*Repercussion (using the correct* Keyphrase *to activate it:)*__ The cryptolock will open correctly
+> + __*Repercussion (trying to remove/change the Cryptolock shard:)*__ The cryptolock engage into a default state or security protocol
+> + __*Hazard:*__ _Fair (+2)_ ***Knockout Gas Security Protocol*** _Weapon: 3_
+
+### `/root/fate/ Cryptomancy_Magics_In_Real_Life`
 
 There's some cryptomantic spells that can be used in "real life", to somewhat encrypt parts of reality or make some of the reality works with the shardnets. Some of them have limitations, the main one being that no cryptomantic spell works against the _Shardscape_: it's impossible to use the _Shardspace_ as a Shard Scry or to Trace someone via Shardscape. Also, it's impossible to do this by traversing shardnets, althought those directly bridged by real people (not by Golems) can be target of cryptomantic spells.
 
