@@ -45,44 +45,44 @@
 #### Sarin Adamant, Cryptoadmin
 
 + ___Cryptoadmin is my life; A master in Shardnet usage___
-   + _**Skilled (+2) at:** Shardnets, Cryptomancy, Information Analysis;
-   + _**Bad (-2) at:** Act with violence;
+   + _**Skilled (+2) at:**_ Shardnets, Cryptomancy, Information Analysis;
+   + _**Bad (-2) at:**_ Act with violence;
 
 #### Volton Lyander, Koivinar Representative
 
 + ___The Showa are scum!; Shardnet is our power, OUR power___
-   + _**Skilled (+2) at:** Bragging about his power;
-   + _**Bad (-2) at:** Courage;
+   + _**Skilled (+2) at:**_ Bragging about his power;
+   + _**Bad (-2) at:**_ Courage;
    
 #### Saburo Yashiwa, Showa Representative
 
 + ___Honorous but ruthless; "I don't deal with Koivinar scum!"; Somewhat worried with possible drawbacks of Showa actions___
-   + _**Skilled (+2) at:** Being Respectful, but ruthless; Hospitality and Courtesy;
-   + _**Bad (-2) at:** Go against Showa Orders;
+   + _**Skilled (+2) at:**_ Being Respectful, but ruthless; Hospitality and Courtesy;
+   + _**Bad (-2) at:**_ Go against Showa Orders;
 
 #### Karin Yashiwa, Crystalis Ambassador
 
 + ___I'm not Showa anymore; Crystalis Ambassador at Showa; Death before Dishonor___
-   + _**Skilled (+2) at:** Using Shardnets;
-   + _**Bad (-2) at:** Being unrespectful;
+   + _**Skilled (+2) at:**_ Using Shardnets;
+   + _**Bad (-2) at:**_ Being unrespectful;
 
 #### Florian Tarson, Crystalis Ambassador
 
 + ___Crystalis is my home; Crystalis Ambassador at Koivinar; Accomplished Cryptobreaker___
-   + _**Skilled (+2) at:** Social Engineering, Cryptomancy, Shardnets;
-   + _**Bad (-2) at:** Being common;
+   + _**Skilled (+2) at:**_ Social Engineering, Cryptomancy, Shardnets;
+   + _**Bad (-2) at:**_ Being common;
 
 #### The Risk Eaters, Manipulative beings
 
 + ___Ours is the future, and the responsability over it; No other ties, we work in the shadows___
-   + _**Skilled (+2) at:** Cryptomancy, Shardnets, Being Sneaky;
-   + _**Bad (-2) at:** Deal with defeat;
+   + _**Skilled (+2) at:**_ Cryptomancy, Shardnets, Being Sneaky;
+   + _**Bad (-2) at:**_ Deal with defeat;
 
 #### Lars Talsorian, rogue cryptomancer
 
 + ___Information is power!; Deceiving everyone for achieving his goals; self-learned cryptomancer___
-   + _**Skilled (+2) at:** Cryptomancy, Being Deceiveful, Collecting Information;
-   + _**Bad (-2) at:** Contacts, Allies
+   + _**Skilled (+2) at:**_ Cryptomancy, Being Deceiveful, Collecting Information;
+   + _**Bad (-2) at:**_ Contacts, Allies
    
 ---
 
@@ -90,15 +90,11 @@
 
 + [_Do: Fate of the Flying Temple_](http://www.evilhat.com/home/do-fate-of-the-flying-temple/), by Mark Truman Diaz, is a light-hearted family-friendly for Fate Accelerated based on the game [_Do: Pilgrims of the Flying Temple_](http://www.evilhat.com/home/do-pilgrims-of-the-flying-temple/), by Daniel Solis. Cryptomancy Rules adapted for Fate Accelerated based on [**Cryptomancer RPG**](http://cryptorpg.com/) by _Chad Walker_
 
-This Letter[^1] for _Do_ combines some of the elements from _Cryptomancer RPG_, based on the _Cryptomancy_ rules adapted by myself. Considering the kind of adventure _Do_ usually have, some changes needed to be done:
+This Letter for _Do_ combines some of the elements from _Cryptomancer RPG_, based on the _Cryptomancy_ rules adapted by myself. In _Do_, people send letter for the Flying Temple and the Temple send Pilgrims - the PCs - to solve those problems. In _Do - Fate of the Flying Temple_, there is no more Flying Temple, that suddenly disappeared, leaving behind an egg that reveals a Dragon when hatched. In this case, the Letters still came for the Pilgrims by arriving straight to the Dragon somehow (think on the Letters to the Temple as letters for Santa). They are frameworks of adventure from where the GM create the history with the PCs. Considering the kind of adventure _Do_ usually have, some changes needed to be done:
 
-1. First of all, there's no _Shardscape_, but _**Shardcapes**_, each on a World in the Many World, even the Flying Temple having one when it still was there. Local **Shardscapes** can't connect themselves, but echoes can be traverse from one Shardscape to another using bridging as normally;
+1. First of all, there's no _Shardscape_, but _**Shardcapes**_, each on a World in the Many Worlds, even the Flying Temple having one when it still was there. Local **Shardscapes** can't connect themselves, but echoes can be traverse from one Shardscape to another using bridging as normally;
 2. The Risk Eaters work for some hidden agenda and, although not as ruthless as in the _Cryptomancer_, they can be very Sneaky. No one knows nothing about the Risk Eaters, but maybe they have some relation with the ___Flying Temple Disappearance___;
 3. Crystallis works like a ___Super-Shardscape___, connecting ___Shardscapes all around the Many Worlds___. So this could explain the interest on it by Showa and Koivinar;
 4. _Mail Crystals_ are a kind of _cryptogear_ that can be used to send messages, by imbue an echo on a shard (the _Mail Crystal_) that fade only after many days after. By using cryptomancy, the time a echo into a _Mail crystal_ takes to fade grow even further. The drawback is that there's not too much _mail crystals_: they are shards crystals that generated only shard, the mail crystal. The advantages of them over common couriers are:
-    a. You can reuse a _Mail Crystal_, by waiting the message on it to fade or by imbuing another one, as long you know the _keyphrase_ or _True Name/Soul Key_ used on it. Just imbue an empty echo on it with the _keyphrase_ and the old echo will fade automatically and the Mail Crystal will be ready to receiva another.
-    b. They warrant receiving, as they have naturally the effect of the ___Shard Spike___ spell, without the damage. As long someone decrypt the echo into the Mail Crystal, the sender receive an acknowledge. He can't determine who did or where, like by the ___Shard Spike___, but he knew the echo was received;
-
----
-
-[^1]: in _Do_, people send letter for the Flying Temple and the Temple send Pilgrims - the PCs - to solve those problems. In _Do - Fate of the Flying Temple_, there is no more Flying Temple, that suddenly disappeared, leaving behind an egg that reveals a Dragon when hatched. In this case, the Letters still came for the Pilgrims by arriving straight to the Dragon somehow (think on the Letters to the Temple as letters for Santa). They are frameworks of adventure from where the GM create the history with the PCs
+   1. You can reuse a _Mail Crystal_, by waiting the message on it to fade or by imbuing another one, as long you know the _keyphrase_ or _True Name/Soul Key_ used on it. Just imbue an empty echo on it with the _keyphrase_ and the old echo will fade automatically and the Mail Crystal will be ready to receiva another.
+   2. They warrant receiving, as they have naturally the effect of the ___Shard Spike___ spell, without the damage. As long someone decrypt the echo into the Mail Crystal, the sender receive an acknowledge. He can't determine who did or where, like by the ___Shard Spike___, but he knew the echo was received;
