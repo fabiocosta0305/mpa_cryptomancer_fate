@@ -12,7 +12,7 @@
 >
 > _Hope you can see through this cryptomessage into a mail crystal. I encoded it into a special True Name cypher, by using the Temple True Name itself, so only the Monks and Pilgrims of the Flying Temple itself could read this echomail locked into this crystal. Any other that tried to read this would only see gibberish and gobbledegook._
 >
-> _Maybe you're that reading this echo doesn't know about us. So, let us brief you under this before asking the help.
+> _Maybe you're that reading this echo doesn't know about us. So, let us brief you under this before asking the help._
 >
 > _Our world, Crystalis, is a small world in the fringe of the Heavens of Steel, Dust, and Spice and Jade, and is very poor on almost all kind of natural resources: there's very few places we could grow crop and raise cattle, the fonts of water are few and far away and there's not too much wood or rocks to use for make our homes._
 >
@@ -95,6 +95,9 @@ This Letter[^1] for _Do_ combines some of the elements from _Cryptomancer RPG_, 
 1. First of all, there's no _Shardscape_, but _**Shardcapes**_, each on a World in the Many World, even the Flying Temple having one when it still was there. Local **Shardscapes** can't connect themselves, but echoes can be traverse from one Shardscape to another using bridging as normally;
 2. The Risk Eaters work for some hidden agenda and, although not as ruthless as in the _Cryptomancer_, they can be very Sneaky. No one knows nothing about the Risk Eaters, but maybe they have some relation with the ___Flying Temple Disappearance___;
 3. Crystallis works like a ___Super-Shardscape___, connecting ___Shardscapes all around the Many Worlds___. So this could explain the interest on it by Showa and Koivinar;
+4. _Mail Crystals_ are a kind of _cryptogear_ that can be used to send messages, by imbue an echo on a shard (the _Mail Crystal_) that fade only after many days after. By using cryptomancy, the time a echo into a _Mail crystal_ takes to fade grow even further. The drawback is that there's not too much _mail crystals_: they are shards crystals that generated only shard, the mail crystal. The advantages of them over common couriers are:
+    a. You can reuse a _Mail Crystal_, by waiting the message on it to fade or by imbuing another one, as long you know the _keyphrase_ or _True Name/Soul Key_ used on it. Just imbue an empty echo on it with the _keyphrase_ and the old echo will fade automatically and the Mail Crystal will be ready to receiva another.
+    b. They warrant receiving, as they have naturally the effect of the ___Shard Spike___ spell, without the damage. As long someone decrypt the echo into the Mail Crystal, the sender receive an acknowledge. He can't determine who did or where, like by the ___Shard Spike___, but he knew the echo was received;
 
 ---
 
